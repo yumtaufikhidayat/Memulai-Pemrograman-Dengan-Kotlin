@@ -1,4 +1,4 @@
-package exercises.kotlinfundamental
+package exercises.kotlinfundamental.fundamental
 
 // single line comment
 /* main function */
