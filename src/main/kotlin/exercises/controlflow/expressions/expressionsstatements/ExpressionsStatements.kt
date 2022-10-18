@@ -1,4 +1,4 @@
-package exercises.controlflow.expressionsstatements
+package exercises.controlflow.expressions.expressionsstatements
 
 fun main() {
     expressionsStatements()
